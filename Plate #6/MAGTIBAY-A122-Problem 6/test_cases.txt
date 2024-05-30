@@ -1,0 +1,49 @@
+case #1 (loops, multiple edges)
+A B
+A A
+B C
+B C
+B C
+C C
+C D
+D A
+D A
+D A
+
+case #2 (loops)
+A B
+A A
+B C
+C D
+D A
+
+case #3
+A B
+B C
+C D
+D B
+D B
+D B
+D A
+B E
+C E
+E E
+
+case #4
+A C
+A D
+A E
+B C
+B D
+B E
+
+case #5
+A B
+A E
+A F
+B C
+B D
+B E
+C D
+D E
+E F

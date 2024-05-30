@@ -1,0 +1,36 @@
+case #1
+A B
+B C
+C D
+D A
+
+case #2
+A B
+B C
+C D
+D A
+E A
+E B
+E C
+E D
+
+case #3
+A B
+A C
+B C
+D C
+E C
+E D
+
+case #4
+A B
+B C
+C D
+
+case #5
+A C
+A D
+A E
+B C
+B D
+B E
